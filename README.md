@@ -1,18 +1,7 @@
-# Rheider Abe
+```markdown
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Estudando para ser um bom Front End
-
- Estou cursando Análise e Desenvolvimento de Sistemas, atualmente estou focado em aprender ReactJS, JavaScript, Typescript & Next.js
- Buscando colaborar com projetos em Front-end usando React/Next.js
- Minha stack: ReactJS, Typescript, JavaScript, CSS, HTML & Next.js
- Sobre mim: Curto tecnologias e gosto de LoL e sou Challenger-BR
- Entre em contato comigo: pelo email: rheiderline@gmail.com 
-                             twitter: @rheider
-                             Linkedin: https://www.linkedin.com/in/rheider-abe-80103250/
-                             
-                             # Thiago Marinho
+# Thiago Marinho
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
@@ -23,3 +12,8 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+
+```
