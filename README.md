@@ -2,7 +2,7 @@
 
 ## Hey guys 👋
 I am passionate about solving problems using programming.
-Constantly evolving! to be a better and better Dev :computer:
+Constantly evolving! to be a better Dev :computer:
 
  <br/> :computer: &nbsp; My stack: ReactJS, Typescript, JavaScript, CSS, HTML & Next.js
  <br/> 💬  &nbsp; About me: I'm into technology, I like LoL, series and anime. 
