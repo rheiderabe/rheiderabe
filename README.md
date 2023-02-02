@@ -2,6 +2,7 @@
 
 ## Hey guys 👋
 I am passionate about solving problems using programming.
+
 Constantly evolving! to be a better Dev :computer:
 
  <br/> :computer: &nbsp; My stack: ReactJS, Typescript, JavaScript, CSS, HTML & Next.js
